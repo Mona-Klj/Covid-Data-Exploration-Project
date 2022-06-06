@@ -2,7 +2,7 @@
 
 This Repository holds all of the codes and queries from the Covid-Data-Exploration-Project I create.
 
-Data source from : https://ourworldindata.org/covid-deaths .
+Data source from: https://ourworldindata.org/covid-deaths.
 
 I seprate two tables from raw data called Covid_Deaths and Covid_Vaccinations.
 
