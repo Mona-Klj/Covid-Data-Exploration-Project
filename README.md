@@ -1,4 +1,4 @@
-# Covid-Data-Exploration-Project
+## Covid-Data-Exploration-Project
 
 This Repository holds all of the codes and queries from the Covid-Data-Exploration-Project I have created.
 
