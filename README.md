@@ -4,7 +4,7 @@ This Repository holds all of the codes and queries from the Covid-Data-Explorati
 
 Data source from: https://ourworldindata.org/covid-deaths.
 
-I seprate two tables from raw data called Covid_Deaths and Covid_Vaccinations .
+I seprate two tables from raw data called Covid_Deaths and Covid_Vaccinations.
 
 There are some SQL queries on the tables to extract some meaning from the raw data tables.
 
